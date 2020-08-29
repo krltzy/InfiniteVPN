@@ -5,14 +5,19 @@
   "latestVersion": "2.0.7",
   "latestVersionCode": "5",
   "CrashInfo": "The Owner Crashed the application due to users abuse.",
-  "Title": "Welcome to VPN",
+  "Title": "Welcome to InfiniteVPN",
   "Summary": "Keep Supporting us!",
 "RemoteMessage": "Thanks for downloading our app!",
-"Info": "2.0.5",
+"Info": "2.0.5
+↯Added 100+ high speed servers
+↯10 Philippines Servers
+↯Support Gaming / Netflix",
   "url": "https://drive.google.com/uc?id=18BHvtQvnJAb8qLG9GJ6qHbnDWJA3DRUB&export=download",
 "Url": "https://drive.google.com/uc?id=15vS7etB9h8H5ZRQF_JQItLiQN6l98qU4&export=download",
 "Info1": "Whats new?
-   ➡ wait wait lng kayo guys malapit ko na release ovpn/ssl 😃😄",
+   • Fix notification for Android10
+   • Fix Disconnection issue
+   • Added App Update ShortCut",
   "ServerInfo": "Whats New?
    ➡ Fix Profile not found in vpnsplit server for sun users"
 }
