@@ -1,5 +1,8 @@
 {
-  "AppCrash": "false",
+"Message": "This app has been Disabled by Developer due to some issue, kindly check the InfiniteVPN page for the latest app update. Thank You!",
+    "Destroy": true,
+         "InfiniteVPN": true,
+          "com.infinitevpn.pro": true,
   "Announce": "true",
   "Version": "2.0.6",
   "latestVersion": "2.0.6",
