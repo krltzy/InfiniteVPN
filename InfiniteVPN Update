@@ -4,19 +4,19 @@
          "InfiniteVPN": false,
           "com.infinitevpn.pro": false,
   "Announce": "true",
-  "Version": "2.0.6",
-  "latestVersion": "2.0.6",
+  "Version": "2.0.7",
+  "latestVersion": "2.0.7",
   "latestVersionCode": "5",
   "CrashInfo": "The Owner Crashed the application due to users abuse.",
   "Title": "InfiniteVPN",
   "Summary": "Keep Supporting us!",
 "RemoteMessage": "Thanks for downloading our app. Your gateway to unlimited internet.",
-"Info": "2.0.6
+"Info": "2.0.7
 ↯Added 100+ high speed servers
 ↯10 Philippines Servers
 ↯Support Gaming / Netflix",
-  "AppUpdate": "https://drive.google.com/uc?id=18BHvtQvnJAb8qLG9GJ6qHbnDWJA3DRUB&export=download",
-"Url": "https://drive.google.com/uc?id=18rKfK7e9pl6aqLuwlY_GSKYcHi_2fScD&export=download",
+  "AppUpdate": "https://drive.google.com/uc?id=19wmO6aWaDscDoJgHVG4cvaFJu6bXe2pc&export=download",
+"Url": "https://drive.google.com/uc?id=19mq-dN622OaLm0rf24P4_mCmq_rFBiqz&export=download",
 "ApkMessage": "Whats new?
    • Fix notification for Android10
    • Fix Disconnection issue
