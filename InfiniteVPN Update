@@ -4,14 +4,14 @@
          "InfiniteVPN": false,
           "com.infinitevpn.pro": false,
   "Announce": "true",
-  "Version": "2.0.8",
+  "Version": "2.0.9",
   "latestVersion": "2.0.7",
   "latestVersionCode": "5",
   "CrashInfo": "The Owner Crashed the application due to users abuse.",
   "Title": "Welcome to Infinite VPN",
   "Summary": "Keep Supporting us!",
 "RemoteMessage": "Thanks for downloading our app. We hope that you enjoy our service.",
-"Info": "2.0.8
+"Info": "2.0.9
 ↯Basic Servers are now Working
 ↯Added 120+ high speed server
 ↯15 Philippines Server
