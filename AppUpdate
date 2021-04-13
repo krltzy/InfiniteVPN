@@ -1,10 +1,10 @@
 {
-  "newVersion": "1",
+  "newVersion": "3",
   "apkUrl": "https://drive.google.com/file/d/1c2I9HGP98c2LYUqx-K7CPOa4kdcYKYew/view?usp=drivesdk",
   "versionNotes":"•Infinite VPN PRO•
 -Add SSL TLS Connection
 -Add Online configuration
--Fixing No load timer
+-Fix Add Time feature
 -Support all device
 -For more features please feedback "
 }
