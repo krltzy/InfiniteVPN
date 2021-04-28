@@ -1,10 +1,10 @@
 {
-  "newVersion": "3",
-  "apkUrl": "https://drive.google.com/file/d/1c2I9HGP98c2LYUqx-K7CPOa4kdcYKYew/view?usp=drivesdk",
-  "versionNotes":"•Infinite VPN PRO•
--Add SSL TLS Connection
--Add Online configuration
--Fix Add Time feature
+  "newVersion": "6",
+  "apkUrl": "https://play.google.com/store/apps/details?id=com.infinitevpn.archival",
+  "versionNotes":"•Infinite VPN•
+-Added Custom Tweak/Payload
+-Added Custom Server Name Indicator (SNI)
+-No Add Time feature at this update
 -Support all device
 -For more features please feedback "
 }
