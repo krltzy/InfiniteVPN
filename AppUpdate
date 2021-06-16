@@ -1,10 +1,10 @@
 {
-  "newVersion": "6",
-  "apkUrl": "https://play.google.com/store/apps/details?id=com.infinitevpn.archival",
+  "newVersion": "9",
+  "apkUrl": "https://play.google.com/store/apps/details?id=com.infinitevpn.org",
   "versionNotes":"•Infinite VPN•
--Added Custom Tweak/Payload
--Added Custom Server Name Indicator (SNI)
--No Add Time feature at this update
+-Added Coins Manager (collect coins and earn time)
+-Fix online bugs in crash
+-Optimize UI
 -Support all device
 -For more features please feedback "
 }
