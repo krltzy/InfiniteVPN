@@ -1,8 +1,7 @@
 {
-  "newVersion": "9",
-  "apkUrl": "https://play.google.com/store/apps/details?id=com.infinitevpn.org",
+  "newVersion": "11",
+  "apkUrl": "https://drive.google.com/file/d/1hLKH8nuGHqFOT6Zu7XBWEDLPMuSTP6qp/view?usp=drivesdk",
   "versionNotes":"•Infinite VPN•
--Added Coins Manager (collect coins and earn time)
 -Fix online bugs in crash
 -Optimize UI
 -Support all device
